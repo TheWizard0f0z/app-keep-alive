@@ -1,5 +1,7 @@
 import os
 import requests
+import schedule
+import time
 import logging
 
 def ping_endpoints():
